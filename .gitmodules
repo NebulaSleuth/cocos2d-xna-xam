@@ -1,11 +1,9 @@
 [submodule "MonoGame"]
 	path = MonoGame
-	url = git://github.com/Cocos2DXNA/MonoGame.git
-	branch = develop
+	url = https://github.com/NebulaSleuth/MonoGame.XamarinForms.git
+	branch = master
 
 [submodule "tools/ouya"]
-
 	path = tools/ouya
-
 	url = https://github.com/slygamer/ouya-csharp.git
 
