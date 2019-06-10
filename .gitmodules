@@ -1,7 +1,7 @@
 [submodule "MonoGame"]
 	path = MonoGame
 	url = https://github.com/NebulaSleuth/MonoGame.XamarinForms.git
-	branch = master
+	branch = develop
 
 [submodule "tools/ouya"]
 	path = tools/ouya
